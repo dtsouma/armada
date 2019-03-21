@@ -7,7 +7,7 @@ http://www.templatemo.com/tm-501-neaty
 */
 body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 15px;
 	font-weight: 300;
 	overflow-x: hidden;
 }
@@ -31,7 +31,7 @@ a:focus {
 .tm-blue-bg a {	color: white; }
 
 .tm-site-name {
-	font-size: 4rem;
+	font-size: 3rem;
 	margin-top: 20px;
 }
 
@@ -48,8 +48,8 @@ a:focus {
 }
 
 .tm-section { margin-bottom: 60px; }
-.tm-welcome-title {	font-size: 2.4rem; }
-.tm-section-title {	font-size: 2.2rem; }
+.tm-welcome-title {	font-size: 2.0rem; }
+.tm-section-title {	font-size: 1.2rem; }
 .tm-content-div { padding: 40px; }
 .tm-margin-b-45 { margin-bottom: 45px; }
 .tm-margin-b-30 { margin-bottom: 30px; }
@@ -145,7 +145,7 @@ textarea:-ms-input-placeholder {
 @media (min-width: 576px) {
 	.container { width: 100%; }
 	.tm-site-name { margin-top: 35px; }
-	.tm-welcome-title { font-size: 3rem; }
+	.tm-welcome-title { font-size: 2rem; }
 	.tm-img-container-1 { width: 20%; }
 	.tm-img-container-2 { width: 33.3334%; }
 	.tm-img-container-3 { width: 25%; }
@@ -176,14 +176,14 @@ textarea:-ms-input-placeholder {
 
 	.tm-nav-item {
 		cursor: pointer;
-		font-size: 1.5rem;
+		font-size: 1.2rem;
 		list-style: none;
 		padding: 18px 30px;
 		transition: all 0.3s ease;
 	}
 
 	.tm-site-name {
-	    font-size: 3.3rem;
+	    font-size: 2.3rem;
 	    margin-top: 30px;
 	}
 
@@ -270,7 +270,7 @@ textarea:-ms-input-placeholder {
 	.tm-nav-item { font-size: 1.4rem; }
 
 	.tm-site-name {
-		font-size: 2.4rem;
+		font-size: 2.0rem;
 		margin-top: 10px;
 	}
 }
@@ -281,5 +281,5 @@ textarea:-ms-input-placeholder {
 	    padding-bottom: 100px;
 	}
 
-	.tm-nav-item { font-size: 1.9rem; }
+	.tm-nav-item { font-size: 1.6rem; }
 }
